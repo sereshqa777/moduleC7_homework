@@ -1,0 +1,17 @@
+{
+  "name": "moduleC7_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/sereshqa777/moduleC7_homework.git",
+  "scripts": {
+    "test": "jest",
+    "count-down-dev": "nodemon src/countDown",
+    "reverse-string-dev": "nodemon src/reverseString"
+  },
+  "author": "Le Ma <le_ma_@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
